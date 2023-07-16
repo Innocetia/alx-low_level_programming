@@ -1,11 +1,12 @@
-#include < stdio.h>
+#include <stdio.h>
 /**
- * main - This prints lines with puts function
+ * main - printing the output using the put function
  *
- * Return: 0 (Success)
+ * Return: always (0)
+ *
  */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle\n");
-return (0);
+	puts("\"Programming is like building a multilingual puzzle\n");
+	return (0);
 }
